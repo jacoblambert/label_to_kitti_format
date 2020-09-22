@@ -1,4 +1,4 @@
-If you have some labels you want to evaluate on KITTI benchmark but have format problems, here some quick scripts for you to convert to KITTI format and evaluate using their metrics.
+If you have some labels you want to evaluate on KITTI benchmark but have format problems, here some quick scripts for you to convert to KITTI format and evaluate using their metrics. First release with only testing a few cases, might be buggy, let me know. 
 
 #### KITTI Converter
 You can convert your labels of arbitrary format to KITTI labels easily using this script. Example:
